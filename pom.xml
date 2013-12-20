@@ -38,7 +38,6 @@
 
     <scm>
         <connection>scm:git:git://github.com/pojomvcc/pojomvcc.git</connection>
-        <developerConnection>scm:git:pojomvcc@github.com:pojomvcc/pojomvcc.git</developerConnection>
         <url>http://github.com/pojomvcc/pojomvcc</url>
         <tag>default</tag>
     </scm>
