@@ -8,38 +8,17 @@
     <packaging>jar</packaging>
 
     <name>pojo-mvcc</name>
-    <description>A simple in-memory POJO Multi Version Concurrency Control (MVCC) cache.</description>
-    <url>https://github.com/pojomvcc/pojomvcc.git</url>
-
-    <licenses>
-        <license>
-            <name>The Apache Software License, Version 2.0</name>
-            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-            <distribution>repo</distribution>
-            <comments>A business-friendly OSS license</comments>
-        </license>
-    </licenses>
-
-    <developers>
-        <developer>
-            <name>Aidan Morgan</name>
-            <url>http://au.linkedin.com/pub/aidan-morgan/2/5b4/928/</url>
-        </developer>
-        <developer>
-            <name>Michael Fazio</name>
-            <url>http://au.linkedin.com/pub/michael-fazio/b/b20/a23/</url>
-        </developer>
-    </developers>
+    <url>http://maven.apache.org</url>
 
     <properties>
-        <gpg.passphrase/>
+        <gpg.passphrase></gpg.passphrase>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <scm>
-        <connection>scm:git:git://github.com/pojomvcc/pojomvcc.git</connection>
-        <url>http://github.com/pojomvcc/pojomvcc</url>
-        <tag>default</tag>
+        <connection>scm:git:git://github.com/aidanmorgan/pojo-mvcc.git</connection>
+        <developerConnection>scm:git:git@github.com:aidanmorgan/pojo-mvcc.git</developerConnection>
+        <url>http://github.com/aidanmorgan/pojo-mvcc</url>
     </scm>
 
     <distributionManagement>
