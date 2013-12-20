@@ -9,7 +9,7 @@
 
     <name>pojo-mvcc</name>
     <description>A simple in-memory POJO Multi Version Concurrency Control (MVCC) cache.</description>
-    <url>https://github.com/aidanmorgan/pojo-mvcc</url>
+    <url>https://github.com/pojomvcc/pojomvcc.git</url>
 
     <licenses>
         <license>
@@ -37,9 +37,9 @@
     </properties>
 
     <scm>
-        <connection>scm:git:git://github.com/aidanmorgan/pojo-mvcc.git</connection>
-        <developerConnection>scm:git:S73417H@github.com:aidanmorgan/pojo-mvcc.git</developerConnection>
-        <url>http://github.com/aidanmorgan/pojo-mvcc</url>
+        <connection>scm:git:git://github.com/pojomvcc/pojomvcc.git</connection>
+        <developerConnection>scm:git:pojomvcc@github.com:pojomvcc/pojomvcc.git</developerConnection>
+        <url>http://github.com/pojomvcc/pojomvcc</url>
         <tag>default</tag>
     </scm>
 
