@@ -3,6 +3,18 @@ pojo-mvcc
 
 Provides a simple in-memory POJO Multi Version Concurrency Control (MVCC) cache
 
+Usage
+=====
+
+Pojo MVCC is available as a maven dependency from maven central. Use the following in your project's POM:
+
+```xml
+<dependency>
+    <groupId>com.github.pojomvcc</groupId>
+    <artifactId>pojo-mvcc</artifactId>
+    <version>1.0-RC1</version>
+</dependency>
+```
 
 Background
 =========
